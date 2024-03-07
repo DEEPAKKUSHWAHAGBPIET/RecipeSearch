@@ -1,5 +1,6 @@
 # Live site - https://recipe-search-cyan-one.vercel.app/
 
+# Deployment : I have deployed this website on vercel.... website link is given above
 user can type this above url in his/her
 web browser to visite the website
 after that s/he has to enter the 
